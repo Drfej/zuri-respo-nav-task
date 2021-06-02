@@ -7,7 +7,7 @@
     font-family: 'Rubik', sans-serif;
 }
 
-div.nav-bar {
+nav{
     display: flex;
     justify-content: space-around;
     /* padding: 1rem 6rem; */
